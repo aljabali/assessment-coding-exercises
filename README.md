@@ -31,7 +31,7 @@ Here are the points we will review your assessment based on it :
 * **Readability**: Coding style and naming convention 
 * **Structure**: Object design and code architecture. Try not to over engineering your solution
 * **Documentation**: Team work abilities , by providing clear enough documentation
-* **Creativity** in choosing how to present the deals
+* **Creativity** in how to present it in simple design 
 
 **Notes:**
 * Do not pay a lot of attention to your page layout , keep it simple and nice.
